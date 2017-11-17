@@ -34,4 +34,24 @@ h3{
     width: 250px;
     text-transform: uppercase;
 }
+.space {
+    padding:0 100px 0 60px;
+}
 
+.image2 {
+    height: 400px;
+    width: 350px;
+    border: 4px solid;
+    border-color: #42413f;
+    text-align: center;
+    margin: auto 0; 
+    padding-right: 0; 
+}
+
+#tree {
+    font-size: 12px; 
+}
+
+#bold {
+    font-weight: bold;
+}
