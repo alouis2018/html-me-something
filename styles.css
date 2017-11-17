@@ -1,0 +1,37 @@
+
+main{
+    background: #faf9f8;
+     
+}
+p {
+   font-family: Garamond, serif;
+   font-size: 18px; 
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border: 4px solid;
+    border-color: #42413f;
+    text-align: center;
+    margin: auto 0; 
+    padding: auto 0;
+   
+}
+
+h2 {
+    background: #a5a4a3;
+    height:50px;
+    text-align: center;
+    font-size: 2.5em;
+
+}
+
+h3{
+    color: #42413f; 
+    background: #a5a4a3;
+    height:30px;
+    width: 250px;
+    text-transform: uppercase;
+}
+
